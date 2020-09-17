@@ -1,0 +1,49 @@
+/*ini adalah style jumbotron*/
+.jumbotron {
+    background-image: url(img/img.jpg);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 230px;
+}
+
+.jumbotron .btn {
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+
+/* ini adalah style slider carousel */
+.carousel-item {
+    height: 630px;
+}
+
+.carousel-item img {
+    margin-top: -10px;
+}
+
+.carousel-item .display-4 {
+    margin-top: -450px;
+}
+
+.section {
+    min-height: 800px;
+}
+
+.container .row {
+    margin-top: 70px;
+    height: 370px;
+}
+
+.services {
+    margin-top: 70px;
+    height: 430px;
+}
+
