@@ -22,7 +22,7 @@
 
 /* ini adalah style slider carousel */
 .carousel-item {
-    height: 630px;
+    height: 660px;
 }
 
 .carousel-item img {
@@ -33,17 +33,13 @@
     margin-top: -450px;
 }
 
-.section {
-    min-height: 800px;
+section {
+	min-height: 600px;
 }
 
 .container .row {
-    margin-top: 70px;
-    height: 370px;
+    margin-top: 100px;
+    height: 550px;
 }
 
-.services {
-    margin-top: 70px;
-    height: 430px;
-}
 
