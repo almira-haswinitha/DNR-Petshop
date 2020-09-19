@@ -38,8 +38,70 @@ section {
 }
 
 .container .row {
-    margin-top: 100px;
+    /* margin-top: 100px; */
     height: 550px;
 }
 
 
+.about {
+    /* margin-top: 150px; */
+    background-color: #FFFAFA;
+    background-image: url('img2.png');
+  }
+
+
+.services {
+   background-color: #FFF0F5;
+   background-image: url('img2.png');
+ }
+
+ .booking {
+    background-color: #FFFAFA;
+    background-image: url('img2.png');
+    text-align: center;
+  }
+
+
+.product {
+   background-color: #FFF0F5;
+   background-image: url('img2.png');
+ }
+
+
+ .contact {
+    background-color: #FFFAFA;
+    background-image: url('img2.png');
+  }
+  
+
+
+/* parallax */
+.content {
+    color: #262626;
+    background-size: 49% auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  
+
+  .right {
+    padding: 1.618em 6.472em 3.236em 50%;
+    background-position: 0 50%;
+  }
+
+  /* .illustration_01 {
+    background-color: #FFF0F5;
+    background-image: url('../img/img2.png');
+  } */
+
+
+  
+  .left {
+    padding: 1.618em 50% 3.236em 6.472em;
+    background-position: 100% 50%;
+  }
+
+  /* .illustration_02 {
+    background-color: #FFFAFA;
+    background-image: url("../images/minipadblack.png");
+  } */
